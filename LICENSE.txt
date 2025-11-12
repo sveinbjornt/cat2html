@@ -1,0 +1,2 @@
+(c) 1993 by Harald Schlangmann.
+Permission is granted to use this code.
