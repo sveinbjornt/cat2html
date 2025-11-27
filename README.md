@@ -8,7 +8,7 @@
 
 This is a modified version of `cat2html` originally written by Harald
 Schlangmann for NeXTSTEP in 1993 and later extended by Carl Lindberg for the
-[ManOpen](https://www.clindberg.org/projects/ManOpen.html) application.
+[ManOpen](https://www.clindberg.org/projects/ManOpen.html) Mac app.
 
 Minor modifications were made to make the code compile on modern macOS
 systems for both x86_64 and arm64 architectures, but it should also build
